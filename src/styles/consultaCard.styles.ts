@@ -12,7 +12,7 @@ export const styles = StyleSheet.create({
     elevation: 5,
   },
   statusBadge: {
-    backgroundColor: "#FFA500",
+    backgroundColor: "#db9146",
     alignSelf: "flex-start",
     paddingHorizontal: 16,
     paddingVertical: 8,
@@ -20,7 +20,7 @@ export const styles = StyleSheet.create({
     marginBottom: 20,
   },
   statusConfirmada: {
-    backgroundColor: "#4CAF50",
+    backgroundColor: "#50C878",
   },
   statusCancelada: {
     backgroundColor: "#F44336",
@@ -39,7 +39,7 @@ export const styles = StyleSheet.create({
   label: {
     fontSize: 16,
     fontWeight: "bold",
-    color: "#79059C",
+    color: "#4169E1",
     marginBottom: 8,
   },
   valor: {
